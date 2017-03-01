@@ -1,5 +1,5 @@
-Belos is the attacker IP recorded in the MMD-0062-2017
-
+Below is the attacker IP recorded in the MMD-0062-2017
+/* I am not updating this list anymore since Feb 18, 2017 & focus on the Red Network (server side) */
 
 IP & Country:
 
