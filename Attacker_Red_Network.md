@@ -137,7 +137,6 @@ Shared for the blocking purpose.
 50.21.183.44 | u19282468.onlinehome-server.com. |8560 | 50.21.176.0/20 | ONEANDONE | DE | oneandone.net | 1&1 Internet Inc.
 62.210.220.115 | 62-210-220-115.rev.poneytelecom.eu. |12876 | 62.210.0.0/16 | AS12876 | FR | online.net | Online S.A.S.
 78.46.78.150 | static.150.78.46.78.clients.your-server.de. |24940 | 78.46.0.0/15 | HETZNER | DE | hetzner.de | Hetzner Online AG
-78.51.3.107 | x4e33036b.dyn.telefonica.de. |6805 | 78.48.0.0/13 | TDDE | DE | telefonica.de | Telefonica Germany GmbH & Co. OHG
 8.38.88.94 |  |13886 | 8.38.88.0/24 | CLOUD-SOUTH | US | level3.com | Level 3 Communications Inc.
 80.47.120.159 | host-80-47-120-159.as13285.net. |9105 | 80.40.0.0/13 | TISCALI | GB | talktalk.co.uk | Pipex - Tiscali Migration Space
 81.199.16.233 | 81.199.16.233.satcom-systems.net. |12491 | 81.199.16.0/22 | IPPLANET | IL | gilat.net | Gilat Satcom
