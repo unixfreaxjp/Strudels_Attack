@@ -1,5 +1,7 @@
 Below is the confirmed infrastructure used by attackers in case of MMD-0062-2017.
 
+This list is maintaned and updated daily basis.
+
 Shared for the blocking purpose.
 
 ```asm
