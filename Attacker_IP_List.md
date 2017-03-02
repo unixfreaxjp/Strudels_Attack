@@ -1,5 +1,8 @@
 Below is the attacker IP recorded in the MMD-0062-2017
-/* I am not updating this list anymore since Feb 18, 2017 & focus on the Red Network (server side) */
+
+The data is including the IoT devices (see the Vietnam IP set)
+
+/* I am not updating this list anymore since Feb 18, 2017 & focus on the attacker's used Red Network (server side) */
 
 IP & Country:
 
