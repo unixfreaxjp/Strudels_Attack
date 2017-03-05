@@ -1,8 +1,10 @@
 Below is the attacker IP recorded in the MMD-0062-2017
 
-The data is including the IoT devices (see the Vietnam IP set)
+The data is including the IoT devices (see the Vietnam IP set), and the compromised servers with weak SSH, including the infrastructure used for the attack (hereforth is called RED Network, are also secludedly filtered to the different list).
 
 /* I am not updating this list anymore since Feb 18, 2017 & focus on the attacker's used Red Network (server side) */
+
+EDIT: Under several requests from authority, I am back to  maintain the list.
 
 IP & Country:
 
@@ -70,6 +72,7 @@ IP Address, Country Name
 116.107.157.196, Vietnam
 116.107.159.65, Vietnam
 116.107.193.1, Vietnam
+116.107.220.230, Vietnam
 116.107.222.93, Vietnam
 116.111.125.66, Vietnam
 116.96.252.172, Vietnam
@@ -409,7 +412,8 @@ IP Address, Country Name
 Sun Feb 19 21:06:22 JST 2017 | 101.6.53.18 |  | 4538 | 101.6.0.0/16 | ERX-CERNET | CN | tsinghua.edu.cn | Tsinghua University
 Sun Feb 19 21:06:24 JST 2017 | 101.96.68.46 | ci96.68-46.netnam.vn. | 24173 | 101.96.68.0/23 | NETNAM-AS | VN | netnam.vn | Netnam Corporation
 Sun Feb 19 21:06:26 JST 2017 | 101.99.51.194 | static.cmcti.vn. | 45903 | 101.99.50.0/23 | CMCTI-AS |  | cmcti.vn | CMC Telecom Infrastructure Company
-Sun Feb 19 21:06:29 JST 2017 | 103.237.98.197 |  | 45899 | 103.237.96.0/22 | VNPT-AS | VN | whitehat.vn | Bkav Corporation
+Sun Feb 19 21:06:29 JST 2017 | 103.237.98.197 |  | 45899 | 103.237.96.0/22 | VNPT-AS | VN | whitehat.vn | Bkav 
+Sun Mar  5 17:24:51 JST 2017 | 103.238.68.194|| 24088 | 103.238.68.0/24 | HANOITELECOM-AS | VN | - | Hanoi Telecom Corporation
 Sun Feb 19 21:06:31 JST 2017 | 103.238.68.198 |  | 24088 | 103.238.68.0/24 | HANOITELECOM-AS | VN | - | Hanoi Telecom Corporation
 Sun Feb 19 21:06:34 JST 2017 | 103.238.68.205 |  | 24088 | 103.238.68.0/24 | HANOITELECOM-AS | VN | - | Hanoi Telecom Corporation
 Sun Feb 19 21:06:36 JST 2017 | 103.238.68.211 |  | 24088 | 103.238.68.0/24 | HANOITELECOM-AS | VN | - | Hanoi Telecom Corporation
@@ -465,6 +469,7 @@ Sun Feb 19 21:08:46 JST 2017 | 116.107.1.213 |  | 24086 | 116.107.0.0/20 | VIETT
 Sun Feb 19 21:08:48 JST 2017 | 116.107.157.196 |  | 7552 | 116.107.152.0/21 | VIETEL-AS | VN | viettel.com.vn | Viettel Corporation
 Sun Feb 19 21:08:53 JST 2017 | 116.107.159.65 |  | 7552 | 116.107.152.0/21 | VIETEL-AS | VN | viettel.com.vn | Viettel Corporation
 Sun Feb 19 21:08:56 JST 2017 | 116.107.193.1 |  | 24086 | 116.107.192.0/20 | VIETTEL-AS | VN | viettel.com.vn | Viettel Corporation
+Sun Mar  5 17:23:14 JST 2017 | 116.107.220.230|  |7552 | 116.107.220.0/22 | VIETEL-AS | VN | viettel.com.vn | Viettel Corporation
 Sun Feb 19 21:08:59 JST 2017 | 116.107.222.93 |  | 7552 | 116.107.220.0/22 | VIETEL-AS | VN | viettel.com.vn | Viettel Corporation
 Sun Feb 19 21:09:02 JST 2017 | 116.111.125.66 |  | 7552 | 116.111.112.0/20 | VIETEL-AS | VN | viettel.com.vn | Viettel Corporation
 Sun Feb 19 21:09:05 JST 2017 | 116.96.252.172 |  | 7552 | 116.96.240.0/20 | VIETEL-AS | VN | viettel.com.vn | Viettel Corporation
