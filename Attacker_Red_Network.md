@@ -1,8 +1,6 @@
-Below is the confirmed infrastructure used by attackers in case of MMD-0062-2017.
+Below is the confirmed infrastructure used by attackers in case of MMD-0062-2017. Each IP has a logged record of the hostile activity targeted specific service(s), that is why we put in this RED network classification. These are abused infrastructure either by renting, hack, etc.
 
-This list is maintaned and updated daily basis.
-
-Shared for the blocking purpose.
+This list is maintaned and updated daily basis. Shared for the blocking purpose. MalwareMustDie!
 
 ```asm
 104.155.205.70 | 70.205.155.104.bc.googleusercontent.com. |15169 | 104.154.0.0/15 | GOOGLE | US | google.com | Google Inc.
