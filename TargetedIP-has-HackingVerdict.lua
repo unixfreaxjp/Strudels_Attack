@@ -7,7 +7,7 @@ Germany          166
 United Kingdom   133
 Ireland          109
 France            99
-Russia            98
+Russia            97
 Canada            89
 China             86
 Europe            74
@@ -1158,7 +1158,6 @@ IP Address, Country Name
 184.86.191.191, Netherlands
 184.86.55.67, Netherlands
 185.105.185.172, Iran Islamic Republic of
-185.110.132.202, Russian Federation
 185.118.142.116, Turkey
 185.118.142.55, Turkey
 185.125.45.11, Kazakhstan
