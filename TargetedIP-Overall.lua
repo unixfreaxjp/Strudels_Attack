@@ -294,7 +294,6 @@ IP Address, Country Name
 107.180.58.57, United States
 107.180.8.198, United States
 107.189.161.149, United States
-107.189.171.198, United States
 107.191.42.85, United States
 107.191.56.148, Australia
 107.191.98.162, United States
