@@ -11,6 +11,7 @@ This list is maintaned and updated daily basis. Shared for the blocking purpose.
 107.178.111.105 | we.love.servers.at.ioflood.com. |53755 | 107.178.64.0/18 | IOFLOOD | US | lakesidewebhosting.com | Lakeside Web Hosting LLC
 107.178.111.166 | we.love.servers.at.ioflood.com. |53755 | 107.178.64.0/18 | IOFLOOD | US | ioflood.com | BudgetNode LLC
 107.178.111.169 | we.love.servers.at.ioflood.com. |53755 | 107.178.64.0/18 | IOFLOOD | US | ioflood.com | BudgetNode LLC
+107.189.171.198 | we.love.servers.at.ioflood.com. |53755 | 107.189.128.0/18 | IOFLOOD | US | klayer.com | KLAYER
 109.190.229.147 | 147-229-190-109.dsl.ovh.fr. |35540 | 109.190.0.0/16 | OVH | FR | ovh.com | OVH SAS
 109.201.154.187 | tsn109-201-154-187.dyn.nltelcom.net. |43350 | 109.201.128.0/19 | NFORCE | NL | nforce.com | NForce Entertainment B.V.
 109.236.91.85 | customer.worldstream.nl. |49981 | 109.236.80.0/20 | WORLDSTREAM | NL | worldstream.nl | WorldStream
