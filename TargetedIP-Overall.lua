@@ -8,7 +8,7 @@ United Kingdom   323
 Japan            227
 Canada           214
 France           213
-Russian          194
+Russian          193
 Australia        167
 Italy            140
 Ireland          138
@@ -2087,7 +2087,6 @@ IP Address, Country Name
 184.94.240.124, United States
 185.104.29.20, Netherlands
 185.105.185.172, Iran Islamic Republic of
-185.110.132.202, Russian Federation
 185.11.164.93, Portugal
 185.11.244.161, Russian Federation
 185.116.215.48, United Kingdom
