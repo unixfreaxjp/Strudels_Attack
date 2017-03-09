@@ -5,7 +5,7 @@ This is the list for the recent "Strudels" attacker(s) only
 Time stamp of the detection:
 ```asm
 (1) Thu Mar  9 13:41:53 GMT+9 2017
-(2) Thu Mar  9 16:45:57 JST 2017
+(2) Thu Mar  9 16:45:57 GMT+9 2017
 ```
 Status:
 ```asm
