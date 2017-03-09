@@ -6,6 +6,18 @@ The data is including the IoT devices (see the Vietnam IP set), and the compromi
 
 EDIT: Under several requests from authority, I am back to  maintain the list.
 
+
+```
+UPDATE:
+
+We have received contacts from NCSC-NL (CERT NL) via CERT-BUND (CERT DE) to confirm that 
+the hoster entity 3NT.COM's Abuse Team has terminated the related customer account(s) of 
+Strudels attacker actor. We herewith report that http://3NT.COM  has been cleaned up, so 
+you can remove the block for the 3NT.COM addresses. The list below is stayed as per it is 
+for the RECORD purpose only, as evidence of cyber crime for the law enforcement who is 
+now investigating the case.  - Thank you - 
+```
+
 IP & Country:
 
 1. GeoIP
