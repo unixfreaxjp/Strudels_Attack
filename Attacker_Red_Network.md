@@ -1,6 +1,6 @@
 Below is the confirmed infrastructure used by attackers in case of MMD-0062-2017. Each IP has a logged record of the hostile activity targeted specific service(s), that is why we put in this RED network classification. These are abused infrastructure either by renting, hack, etc.
 
-```lua
+```
 UPDATE:
 
 We have received contacts from NCSC-NL (CERT NL) via CERT-BUND (CERT DE) to confirm that 
