@@ -5,3 +5,4 @@ ip2location.com
 ipinfoplz.com  (grey, has malicious record, using url API)
 api.ipify.org (UPDATED)
 ip4.adspy.mobi
+ip2.adspy.mobi
