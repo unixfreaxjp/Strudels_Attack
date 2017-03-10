@@ -8,10 +8,16 @@ UPDATE:
 
 We have received contacts from NCSC-NL (CERT NL) via CERT-BUND (CERT DE) to confirm that 
 the hoster entity 3NT.COM's Abuse Team has terminated the related customer account(s) of 
-Strudels attacker actor. We herewith report that http://3NT.COM  has been cleaned up, so 
-you can remove the block for the 3NT.COM addresses. The list below is stayed as per it is 
-for the RECORD purpose only, as evidence of cyber crime for the law enforcement who is 
-now investigating the case.  - Thank you - 
+Strudels attacker actor. We herewith report that 3NT.COM has been cleaned up, so 
+you can remove the block for the 3NT.COM addresses. 
+
+The list below is stayed as per it is for the RECORD purpose only, as evidence of cyber 
+crime for the law enforcement who is now investigating the case.
+
+Law enforcement can contact directly to the related CERT or hoster (3NT.COM) for the 
+identification details used by the bad actors.
+
+- Thank you - 
 ```
 
 You can search IP addresses you want to check in this repository, to seek in which category it is classified in MMD-0062-2017 (attackers or victims).
