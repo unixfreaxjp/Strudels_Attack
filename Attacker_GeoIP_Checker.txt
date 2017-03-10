@@ -1,5 +1,4 @@
 checkip.dyndns.com
-api.ipify.org
 ipinfo.io
 ip2location.com
 ipinfoplz.com  (grey, has malicious record, using url API)
