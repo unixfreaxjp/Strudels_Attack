@@ -7,3 +7,4 @@ api.ipify.org (UPDATED)
 ip4.adspy.mobi
 ip2.adspy.mobi
 ip3.adspy.mobi
+ip.adspy.mobi
