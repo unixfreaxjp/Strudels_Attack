@@ -1,7 +1,7 @@
 # MMD-0062-2017
 Repository data for MMD-0062-2017 - Credential harversting by SSH Direct TCP Forward hacking attack (aka **Strudels Attack**)
 
-For the recent ACTIVE (on-going) attacker network [please click here](https://github.com/unixfreaxjp/MMD-0062-2017/blob/master/Red_Hot_Chili_Network.md). Threat report: http://blog.malwaremustdie.org/2017/02/mmd-0062-2017-ssh-direct-tcp-forward-attack.html and IOC: https://misppriv.circl.lu/events/view/6164
+For the recent ACTIVE (on-going) attacker network [please click here](https://github.com/unixfreaxjp/MMD-0062-2017/blob/master/Red_Hot_Chili_Network.md). Explanation is in [Threat report](http://blog.malwaremustdie.org/2017/02/mmd-0062-2017-ssh-direct-tcp-forward-attack.html) or read [Q & A in Infosec Institute](http://resources.infosecinstitute.com/exclusive-close-look-largest-credential-harvesting-campaign-via-iot-botnet/) about **Strudels** attack.
 
 ```
 UPDATE:
@@ -23,6 +23,6 @@ identification details used by the bad actors.
 You can search IP addresses you want to check in this repository, to seek in which category it is classified in MMD-0062-2017 (attackers or victims).
 
 Cyber crime diagram to explain the mass credential stealing scheme:
-[![](https://lh3.googleusercontent.com/gUqltXgNvuTXzvuC4wpqpUxsxIvyRzTUYX-xpOxeS68wtyI6OLG34AFodXeyjnCxP5pgDmY6Q1rGPAW1rdpniQGb-IcNTvqwEkrFm0hjZ-esXlb6hvs62fH3ettso1mfuucSyUs=w780-h766-no)](https://lh3.googleusercontent.com/gUqltXgNvuTXzvuC4wpqpUxsxIvyRzTUYX-xpOxeS68wtyI6OLG34AFodXeyjnCxP5pgDmY6Q1rGPAW1rdpniQGb-IcNTvqwEkrFm0hjZ-esXlb6hvs62fH3ettso1mfuucSyUs=w1309-h766-no)
+[![](https://lh3.googleusercontent.com/OFdN6w9GgZksR5rlRO0mjITdYsyvTQqS69MOHJiXtMmXlxa7KvpcTshnJDJNjxKOmr_CpfMQUIylKVLI5HwpyOtWZxnRr2VzweV2MetEtOALi5-lOOlbTMC06ajtQ4IDPivoKMg=w780-h766-no)](https://lh3.googleusercontent.com/OFdN6w9GgZksR5rlRO0mjITdYsyvTQqS69MOHJiXtMmXlxa7KvpcTshnJDJNjxKOmr_CpfMQUIylKVLI5HwpyOtWZxnRr2VzweV2MetEtOALi5-lOOlbTMC06ajtQ4IDPivoKMg=w2309-h766-no)
 
 ### MalwareMustDie!
