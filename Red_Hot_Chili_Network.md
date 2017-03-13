@@ -1,6 +1,6 @@
 ## Red, Hot and CHili Networks
 
-This is the list for the recent "Strudels" attacker(s) only
+This is the list for the on-going "Strudels" (MMD-0062-2017) attacker(s) only
 
 Time stamp of the detection:
 ```asm
