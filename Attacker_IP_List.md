@@ -8,14 +8,17 @@ EDIT: Under several requests from authority, I am back to  maintain the list.
 
 
 ```
-UPDATE:
+UPDATES:
 
-We have received contacts from NCSC-NL (CERT NL) via CERT-BUND (CERT DE) to confirm that 
+1. We have received contacts from NCSC-NL (CERT NL) via CERT-BUND (CERT DE) to confirm that 
 the hoster entity 3NT.COM's Abuse Team has terminated the related customer account(s) of 
 Strudels attacker actor. We herewith report that http://3NT.COM  has been cleaned up, so 
 you can remove the block for the 3NT.COM addresses. The list below is stayed as per it is 
 for the RECORD purpose only, as evidence of cyber crime for the law enforcement who is 
 now investigating the case.  - Thank you - 
+
+2. The attacker from AS49981 | 194.88.104.0/22 | WORLDSTREAM | NL has been stopped, they moved
+to the new ISP and new network in AS49453 | 91.195.103.0/24 | GLOBALLAYER | NL
 ```
 
 IP & Country:
@@ -297,6 +300,7 @@ IP Address, Country Name
 194.88.106.187, Netherlands
 194.88.106.191, Netherlands
 194.88.106.193, Netherlands
+194.88.106.211, Netherlands
 194.88.107.14, Netherlands
 194.88.107.8, Netherlands
 194.88.107.22, Netherlands
@@ -474,6 +478,9 @@ IP Address, Country Name
 91.126.243.241, Spain
 93.187.183.16, Russian Federation
 93.190.143.155, Netherlands
+91.195.103.178, Netherlands
+91.195.103.179, Netherlands
+91.195.103.189, Netherlands
 ```
 
 2. IP, NETWORK & BGP:
@@ -742,6 +749,7 @@ Thu Mar  9 22:43:03 JST 2017 | 194.88.107.16 |  |49981 | 194.88.104.0/22 | WORLD
 Thu Mar  9 22:43:03 JST 2017 | 194.88.107.24 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
 Thu Mar  9 22:43:03 JST 2017 | 194.88.106.206 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
 Thu Mar  9 22:43:03 JST 2017 | 194.88.106.207 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
+Fri Mar 17 15:29:53 JST 2017 | 194.88.106.211 |  | AS49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
 Fri Mar 10 01:11:07 JST 2017 | 194.88.107.26 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
 Fri Mar 10 01:11:07 JST 2017 | 194.88.107.10 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
 Fri Mar 10 01:11:07 JST 2017 | 194.88.106.178 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
@@ -929,5 +937,8 @@ Sun Feb 19 21:23:42 JST 2017 | 90.69.250.40 | 40.pool90-69-250.dynamic.orange.es
 Sun Feb 19 21:23:44 JST 2017 | 91.126.243.241 | h-91-126-243-241.wholesale.adamo.es. | 35699 | 91.126.243.0/24 | ADAMOEU | ES | adamo.es | Adamo Telecom Iberia S.A.
 Sun Feb 19 21:23:48 JST 2017 | 93.187.183.16 |  | 48124 | 93.187.182.0/23 | COMSTAR-REGIONS | RU | ctctver.ru | Clients corp
 Sun Feb 19 21:23:50 JST 2017 | 93.190.143.155 | customer.worldstream.nl. | 49981 | 93.190.140.0/22 | WORLDSTREAM | NL | worldstream.nl | WorldStream
+Fri Mar 17 15:29:53 JST 2017 | 91.195.103.178 |  |49453 | 91.195.103.0/24 | GLOBALLAYER | NL | - | CJSC Metrostandart
+Fri Mar 17 15:29:53 JST 2017 | 91.195.103.179 |  |49453 | 91.195.103.0/24 | GLOBALLAYER | NL | - | CJSC Metrostandart
+Fri Mar 17 15:29:53 JST 2017 | 91.195.103.189 |  |AS49453 | 91.195.103.0/24 | GLOBALLAYER | NL | - | CJSC Metrostandart
 ```
-Analysis by: @unixfreaxjp - MalwareMustDie, NPO
+Maintained by MalwareMustDie, NPO - The team.
