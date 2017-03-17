@@ -1,14 +1,17 @@
 Below is the confirmed infrastructure used by attackers in case of MMD-0062-2017. Each IP has a logged record of the hostile activity targeted specific service(s), that is why we put in this RED network classification. These are abused infrastructure either by renting, hack, etc.
 
 ```
-UPDATE:
+UPDATES:
 
-We have received contacts from NCSC-NL (CERT NL) via CERT-BUND (CERT DE) to confirm that 
+1. We have received contacts from NCSC-NL (CERT NL) via CERT-BUND (CERT DE) to confirm that 
 the hoster entity 3NT.COM's Abuse Team has terminated the related customer account(s) of 
 Strudels attacker actor. We herewith report that http://3NT.COM  has been cleaned up, so 
 you can remove the block for the 3NT.COM addresses. The list below is stayed as per it is 
 for the RECORD purpose only, as evidence of cyber crime for the law enforcement who is 
 now investigating the case.  - Thank you - 
+
+2. The attacker from AS49981 | 194.88.104.0/22 | WORLDSTREAM | NL has been stopped, they moved
+to the new ISP and new network in AS49453 | 91.195.103.0/24 | GLOBALLAYER | NL
 ```
 
 This list is maintaned and updated daily basis. Shared for the blocking purpose. MalwareMustDie!
@@ -104,6 +107,7 @@ This list is maintaned and updated daily basis. Shared for the blocking purpose.
 194.88.106.187 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
 194.88.106.191 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
 194.88.106.193 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
+194.88.106.211 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
 194.88.107.14 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
 194.88.107.8 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
 194.88.107.22 |  |49981 | 194.88.104.0/22 | WORLDSTREAM | NL | online.be | Online Internet nv/sa
