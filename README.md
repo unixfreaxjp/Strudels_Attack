@@ -6,15 +6,19 @@ For the recent ACTIVE (on-going) attacker network [please click here](https://gi
 ```
 UPDATE:
 
-The attacker from AS49981 | 194.88.104.0/22 | WORLDSTREAM | NL has been stopped, they moved
-to the new ISP and new network in AS49453 | 91.195.103.0/24 | GLOBALLAYER | NL
+Last update: Wed Mar 22 08:43:34 JST 2017
+
+We now only maintained the "Red, Hot & Chili Network" list due to lack of resource.
+
+Newer attacker network in AS49453 | 91.195.103.0/24 | GLOBALLAYER | NL
+Older attacker network is AS49981 | 194.88.104.0/22 | WORLDSTREAM | NL 
 
 We have received contacts from NCSC-NL (CERT NL) via CERT-BUND (CERT DE) to confirm that 
 the hoster entity 3NT.COM's Abuse Team has terminated the related customer account(s) of 
 Strudels attacker actor. We herewith report that 3NT.COM has been cleaned up, so 
 you can remove the block for the 3NT.COM addresses. 
 
-The list below is stayed as per it is for the RECORD purpose only, as evidence of cyber 
+The list stays as per it is for the RECORD purpose, as evidence of cyber 
 crime for the law enforcement who is now investigating the case.
 
 Law enforcement can contact directly to the related CERT or hosters for the 
