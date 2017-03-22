@@ -217,5 +217,12 @@ This list is maintaned and updated daily basis. Shared for the blocking purpose.
 88.198.2.84 | static.88-198-2-84.clients.your-server.de. |24940 | 88.198.0.0/16 | HETZNER | DE | hetzner.de | Hetzner Online AG
 91.197.235.11||60144 | 91.197.234.0/23 | THREE-W-INFRA | NL | - | Planet Telecom Ltd.
 93.190.143.155 | customer.worldstream.nl. |49981 | 93.190.140.0/22 | WORLDSTREAM | NL | worldstream.nl | WorldStream
+91.195.103.178 |  |49453 | 91.195.103.0/24 | GLOBALLAYER | NL | - | CJSC Metrostandart
+91.195.103.179 |  |49453 | 91.195.103.0/24 | GLOBALLAYER | NL | - | CJSC Metrostandart
+91.195.103.189 |  |49453 | 91.195.103.0/24 | GLOBALLAYER | NL | - | CJSC Metrostandart
+91.195.103.186 |  |49453 | 91.195.103.0/24 | GLOBALLAYER, | NL | - | CJSC Metrostandart
+91.195.103.187 |  |49453 | 91.195.103.0/24 | GLOBALLAYER, | NL | - | CJSC Metrostandart
+91.195.103.188||49453 | 91.195.103.0/24 | GLOBALLAYER, | NL | - | CJSC Metrostandart
+91.195.103.189||49453 | 91.195.103.0/24 | GLOBALLAYER, | NL | - | CJSC Metrostandart
 ```
 Anaysis by: unixfreaxjp - MalwareMustDie, NPO
