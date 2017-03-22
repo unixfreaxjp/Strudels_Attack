@@ -1,6 +1,6 @@
 ## Red, Hot and CHili Networks
 
-This is the list for the on-going "Strudels" (MMD-0062-2017) attacker(s) only
+This is the list for the on-going ["Strudels attack" (MMD-0062-2017)](http://blog.malwaremustdie.org/2017/02/mmd-0062-2017-ssh-direct-tcp-forward-attack.html) attacker(s) only
 
 Time stamp of the detection:
 ```asm
