@@ -2,7 +2,7 @@ Below is the attacker IP recorded in the MMD-0062-2017
 
 The data is including the IoT devices (see the Vietnam IP set), and the compromised servers with weak SSH, including the infrastructure used for the attack (hereforth is called RED Network, are also secludedly filtered to the different list).
 
-/* I am not updating this list anymore since Feb 18, 2017 & focus on the attacker's used Red Network (server side) */
+/* I am not updating this list anymore since Feb 18, 2017 & focus on the attacker's used [Red Hot Chili Network](https://github.com/unixfreaxjp/MMD-0062-2017/blob/master/Red_Hot_Chili_Network.md) (server side) */
 
 EDIT: Under several requests from authority, I am back to  maintain the list.
 
