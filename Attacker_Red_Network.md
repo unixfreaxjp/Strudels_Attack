@@ -1,5 +1,7 @@
 Below is the confirmed infrastructure used by attackers in case of MMD-0062-2017. Each IP has a logged record of the hostile activity targeted specific service(s), that is why we put in this RED network classification. These are abused infrastructure either by renting, hack, etc.
 
+/* I am not updating this list anymore since Feb 18, 2017 & focus on the attacker's used [Red Hot Chili Network](https://github.com/unixfreaxjp/MMD-0062-2017/blob/master/Red_Hot_Chili_Network.md) (server side) */
+
 ```
 UPDATES:
 
@@ -10,7 +12,7 @@ you can remove the block for the 3NT.COM addresses. The list below is stayed as 
 for the RECORD purpose only, as evidence of cyber crime for the law enforcement who is 
 now investigating the case.  - Thank you - 
 
-2. The attacker from AS49981 | 194.88.104.0/22 | WORLDSTREAM | NL has been stopped, they moved
+2. The attacker from AS49981 | 194.88.104.0/22 | WORLDSTREAM | NLis still on going, they moved
 to the new ISP and new network in AS49453 | 91.195.103.0/24 | GLOBALLAYER | NL
 ```
 
