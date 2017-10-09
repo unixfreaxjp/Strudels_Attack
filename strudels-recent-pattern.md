@@ -116,7 +116,7 @@ Below is the attacker's `BGP` info, please notice the `ASN`, `prefix` and `ISP` 
 
 Don't hack other people's environment, **it is bad and illegal**, and you are **tresspassing many law and rules**.
 
-I hope this post can help to stop the threat and its mitigation.
+I hope this post can help to stop the threat and to be its mitigation.
 
 ![](https://lh3.googleusercontent.com/7k_zZbozg2Cj_PI9_FWqYwwojSHIjyYqprUrJnuxJ6hU44guH8lFdThREicYSXpFK0tY2o_6SknJPM_mGzgkWzTGFjzpnXew6cRAkSlPyR994-oFQGVtdZapm7d9mvtrVwQ_lt0=w300-h291-no)
 
