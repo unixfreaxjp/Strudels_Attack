@@ -85,7 +85,7 @@ The monitored keepalive functions as per below, see the beacon range of `3second
   :                          :   :                                 :
 ```
 
-So far I spotted these two attacker's IP source that is worth to be blocked from your infrastructure to mitigate these attack to your weak SSH services, like obsolete version of IoT or the weak login IoT devices:
+So far I spotted these two attacker's IP source that is worth to be blocked from your infrastructure to mitigate these attack to your weak SSH services, like obsolete version of IoT or the weak login IoT devices, GeoIP is as follows:
 
 ```lua
 {
@@ -105,6 +105,13 @@ So far I spotted these two attacker's IP source that is worth to be blocked from
   "loc": "48.8582,2.3387",
   "org": "AS12876 ONLINE S.A.S."
 }
+```
+
+Below is the attacker's BGP info, please notice the ASN & prefix used:
+
+```asm
+195.154.39.188 | 195-154-39-188.rev.poneytelecom.eu. | AS12876 | 195.154.0.0/16 | AS12876, | FR | FR
+195.154.51.223 | 195-154-51-223.rev.poneytelecom.eu. | AS12876 | 195.154.0.0/16 | AS12876, | FR | FR
 ```
 
 Don't hack other people's environment, it is bad and illegal, and you are tresspassing many law and rules.
