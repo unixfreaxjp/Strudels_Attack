@@ -4,13 +4,13 @@ Seeing the new pattern of [STRUDELS ATTACK](http://blog.malwaremustdie.org/2017/
 
 [![](https://lh3.googleusercontent.com/pgsMWhnmBJpeTVQIByBGZJvWJ1HQsK0Dawfxrqu3kZLNT9BGt5TLyzSXJbazi7oGcr_GKZSolnJ-Zq7HLXABluwajGg_quG1kcSkoT-aLzT4Gk9azsFpedZOqdVgxjtwG-QdrWC54WI=w700-h599-no)](https://lh3.googleusercontent.com/pgsMWhnmBJpeTVQIByBGZJvWJ1HQsK0Dawfxrqu3kZLNT9BGt5TLyzSXJbazi7oGcr_GKZSolnJ-Zq7HLXABluwajGg_quG1kcSkoT-aLzT4Gk9azsFpedZOqdVgxjtwG-QdrWC54WI=w1463-h599-no)
 
-It utilizes the **good site** of `portquiz.net` for checking the range of available internet global access, with the usage of java SSH library from **good tool** `jcraft.com` with the SSH version tag of: `SSH-2.0-JSCH-0.1.54` -
+It utilizes the **good site** of `portquiz.net` for checking the range of available internet global access, with the usage of java SSH library from **good tool** `jcraft.com` with the *SSH version* tag of: `SSH-2.0-JSCH-0.1.54` -
 
 ```asm
 Remote SSH version: SSH-2.0-JSCH-0.1.54
 ```
 
--during the first connection. The upstream IP used are mostly coming from west Europe. 
+-during the first connection. The `upstream` IP used are mostly coming from *West Europe*. 
 
 The request for the port range checking can be analyzed as per below illustration:
 
@@ -85,7 +85,7 @@ The monitored keepalive functions as per below, see the beacon range of `3second
   :                          :   :                                 :
 ```
 
-So far I spotted these two attacker's IP source that is worth to be blocked from your infrastructure to mitigate these attack to your weak SSH services, like obsolete version of IoT or the weak login IoT devices, GeoIP is as follows:
+So far I spotted these two attacker's IP source that is worth to be blocked from your infrastructure to mitigate these attack to your weak SSH services, like obsolete version of IoT or the weak login IoT devices, `GeoIP` info is as follows:
 
 ```lua
 {
@@ -107,14 +107,14 @@ So far I spotted these two attacker's IP source that is worth to be blocked from
 }
 ```
 
-Below is the attacker's BGP info, please notice the ASN & prefix used:
+Below is the attacker's `BGP` info, please notice the `ASN`, `prefix` and `ISP` used by the attackers now:
 
 ```asm
-195.154.39.188 | 195-154-39-188.rev.poneytelecom.eu. | AS12876 | 195.154.0.0/16 | AS12876, | FR | FR
-195.154.51.223 | 195-154-51-223.rev.poneytelecom.eu. | AS12876 | 195.154.0.0/16 | AS12876, | FR | FR
+195.154.39.188 | 195-154-39-188.rev.poneytelecom.eu. | AS12876 | 195.154.0.0/16 | AS12876, | ONLINE S.A.S | FR
+195.154.51.223 | 195-154-51-223.rev.poneytelecom.eu. | AS12876 | 195.154.0.0/16 | AS12876, | ONLINE S.A.S | FR
 ```
 
-Don't hack other people's environment, it is bad and illegal, and you are tresspassing many law and rules.
+Don't hack other people's environment, **it is bad and illegal**, and you are **tresspassing many law and rules**.
 
 I hope this post can help to stop the threat and its mitigation.
 
