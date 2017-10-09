@@ -117,6 +117,14 @@ Below is the attacker's `BGP` info, please notice the `ASN`, `prefix` and `ISP` 
 Don't hack other people's environment, **it is bad and illegal**, and you are **tresspassing many law and rules**.
 
 I hope this post can help to stop the threat and to be its mitigation.
+If you see these indicators in your traffic log, or your auth log, or in your IoT's SSH/netstat log, that is not good. Precaution should be made to not let them entering your system, like following tips to secure your SSH further:
+- avoid the SSH service on port 22
+- use more secure password
+- not allowing root privilege login from local/global internet
+- use certification (if possible)
+- block unwanted IP or segment network by tcp wrapper or iptables (linux), or ipfw, pf, or ipf for BSD users
+- restrict your sshd rules for the fail attempt
+- apply fail and ban blocking schmee for the fail attempt
 
 ![](https://lh3.googleusercontent.com/7k_zZbozg2Cj_PI9_FWqYwwojSHIjyYqprUrJnuxJ6hU44guH8lFdThREicYSXpFK0tY2o_6SknJPM_mGzgkWzTGFjzpnXew6cRAkSlPyR994-oFQGVtdZapm7d9mvtrVwQ_lt0=w300-h291-no)
 
