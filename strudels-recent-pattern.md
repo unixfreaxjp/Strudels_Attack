@@ -47,7 +47,7 @@ The SSH compromising method is by the `login brute-force` attack, with the squen
 We can see that both ip of `195.154.51.223` and `195.154.39.188` were accessing the compromised SSH with the same method..
 
 Another trick that was used by attacker is the **keepaliving** stage to keep SSH channel's connection open to be used to launch the attack afterward. 
-The monitored keepalive functions as per below, see the beacon range of `3seconds' and `4seconds` used:
+The monitored keepalive functions as per below, see the beacon range of `3seconds` and `4seconds` used:
 
 ```asm
 2017-10-09 10:33:29 [sid/ip=928,195.154.51.223] got global keepalive@jcraft.com request
