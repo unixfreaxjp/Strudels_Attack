@@ -37,7 +37,7 @@ The SSH compromising method is by the `login brute-force` attack, with the squen
 2017-10-08 23:27:49 [sid/ip=132,195.154.39.188] login attempt [admin/admin] failed
   :                                                              :
 ```
--it will continue the brute until the SSH access is gained, and the attackers is using `diffie-hellman-group-exchange-sha1 ssh-rsa` as SSH auth scheme (supporting to the act of actual tool used too), and `keyboard-interactive` authenticated access was used before gaining shell to show its human-interraction possibility.
+-it will continue the brute until the SSH access is gained, and the attackers is using `diffie-hellman-group-exchange-sha1 ssh-rsa` as SSH auth scheme (supporting to the fact of actual tool used too), and `keyboard-interactive` authenticated access was used before gaining shell to show its human-interraction possibility.
 
 ```asm
 
