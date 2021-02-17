@@ -1,7 +1,7 @@
 # MMD-0062-2017
 Repository data for MMD-0062-2017 - Credential harversting by SSH Direct TCP Forward hacking attack (aka **Strudels Attack**)
 
-For the recent ACTIVE (on-going) attacker network [please visit the this Github's repo data](https://github.com/unixfreaxjp/MMD-0062-2017/). Explanation is in [Threat report](http://blog.malwaremustdie.org/2017/02/mmd-0062-2017-ssh-direct-tcp-forward-attack.html) or read [Q & A in Infosec Institute](http://resources.infosecinstitute.com/exclusive-close-look-largest-credential-harvesting-campaign-via-iot-botnet/) about **Strudels** attack.
+For the recent ACTIVE (on-going) attacker network [please visit the this Github's repo data](https://github.com/unixfreaxjp/MMD-0062-2017/). Explanation is in [Threat report](https://blog.malwaremustdie.org/2017/03/mmd-0062-2017-credential-harvesting-by.html) or read [Q & A in Infosec Institute](http://resources.infosecinstitute.com/exclusive-close-look-largest-credential-harvesting-campaign-via-iot-botnet/) about **Strudels** attack.
 
 ```
 UPDATE:
